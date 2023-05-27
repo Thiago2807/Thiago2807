@@ -2,14 +2,12 @@
 <h2>Olá, Devs!!</h2>
 
 <p>Hoje estou estudando em uma escola técnica de desenvolvimento de sistemas, estou no segundo módulo.</p>
-<hr>
-<p>As linguagens de programação que mais me interreso nos dias atuais é C#.</p>
 
 ### Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 
-<div>
+<div align="center">
 <a href="https://github.com/Thiago2807">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2807&layout=compact&langs_count=7&theme=dracula"/>
 </div>
