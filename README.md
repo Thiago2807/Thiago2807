@@ -24,12 +24,3 @@
 </div>
 
 ---
-
-<h2>📊 GitHub Stats</h2>
-
-<div>
-  <a href="https://github.com/Thiago2807">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2807&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago2807&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
